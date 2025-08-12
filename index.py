@@ -2,5 +2,5 @@ def sumar(num1: int, num2: int) -> int:
     respuesta = num1+num2
     return respuesta
 
-a = sumar(1, 2)
+a = sumar(1, 3)
 print(a)
